@@ -1,1 +1,5 @@
 print ("Happy")
+if happy== "yes":
+	print ("eat cake")
+else:
+	print ("have Tea")
